@@ -1,4 +1,4 @@
-//Requisitos para rodar cyberpunk 2077 no PC:
+// Requisitos para rodar cyberpunk 2077 no PC:
 
 //Perguntar a memória ram do PC, sendo que menor que 8Gb, o jogo não consegue rodar e acima de 16 ele roda em 4k
 //Perguntar o armazenamento, tem que ser maior de 70, se não, não roda
