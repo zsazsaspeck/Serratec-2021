@@ -1,4 +1,4 @@
-//Requisitos para rodar cyberpunk
+//Requisitos para rodar cyberpunk 2077 no PC:
 const ler = require("prompt-sync")();
 console.log(" ===== REQUISITOS PARA CYBERPUNK 2077 ===== ")
 var ram = Number(ler("Qual é a sua memória ram?"));
