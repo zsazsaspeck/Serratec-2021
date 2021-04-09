@@ -1,4 +1,4 @@
-// FIla da vacinação
+//  FIla da vacinação
 // Ola, você deverá pedir como entrada o nome da pessoa e sua idade,
 //  se a idade da pessoa for  menor de 18 anos, ela não poderá tomar
 //   a vacina, por falta de teste, se a  pessoa tiver entre 18 e 59,
