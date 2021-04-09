@@ -29,4 +29,3 @@ console.log("Acabaram os ingressos! Homens:", H, "e", "Mulheres:", M);
 
 
 
-
