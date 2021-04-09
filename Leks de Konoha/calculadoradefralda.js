@@ -1,4 +1,4 @@
-//Fraldas
+// Fraldas
 //O programa pergunta qual tamanho de fralda o(a) pequeno(a) usa, sua idade e quantas fraldas usa em média, por dia.
 //O mesmo irá devolver, em média, quantas fraldas desse tamanho ele(a) irá usar, e quantas fraldas em média, irá usar até o desfralde.
 
