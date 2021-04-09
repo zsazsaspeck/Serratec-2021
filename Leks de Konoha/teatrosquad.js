@@ -1,4 +1,4 @@
-// O teatro do monstro permite a entrada de até 5 pessoas;
+// O teatro do monstro permite a entrada de até 5 pessoas ;
 // A peça só começa após atingir a lotação máxima;
 // Nesta peça é proibida a entrada de menores de 16 anos;
 // O gerente quer saber quantos são homens e quantos são mulheres antes da peça começar.
