@@ -22,7 +22,7 @@ if (placa == "S")console.log("Placa de vídeo: Ok")
 else console.log("Placa de vídeo incompátivel");
 if (directx == "S")console.log("DirectX correto!")
 else console.log("DirectX inválido, favor baixar o 12.")
-if (ram >=8 && armazenamento >= 70 && directx == "S")console.log("Apto para rodar cyberpunk 2077")
+if (ram >=8 && armazenamento >= 70 && directx == "S" && placa == "S")console.log("Apto para rodar cyberpunk 2077")
 else console.log("Devido a problemas descritos, não é possível rodar Cyberpunk.")
 
 
