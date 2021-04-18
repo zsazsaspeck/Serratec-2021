@@ -13,7 +13,10 @@ ALTER TABLE public.brinquedos ADD COLUMN id serial
 ALTER TABLE public.brinquedos ADD COLUMN brinquedo character varying(50)
 
 INSERT INTO brinquedos (brinquedo)
-VALUES ('StarMountain')
+VALUES ('StarMountain'),
+('raskapuska'),
+('BigTower'),
+('FireWhip')
 
 CREATE TABLE public.brinquedo_e_visitante
 (
