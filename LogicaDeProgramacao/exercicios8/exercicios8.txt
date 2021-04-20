@@ -1,0 +1,18 @@
+1.  Variável: espaço da memória do computador, utilizado para armazenar apenas um determinado tipo de dado pré definido. 
+Vetor: igual a variável, porém com capacidade de armazenamento maior.
+2.Essa estrutura permite acesso aleatório : qualquer elemento do vetor pode ser alcançado diretamente, sem passar pelos elementos anteriores
+3.O índice define a posição da variável dentro do vetor.
+4. Gavetas
+5. NewArray [seria as posições] 
+6.Sim, pegando os indices. Por ex: Nome [1], Nome [2]
+Propriedades de vetores
+
+
+1. O ato de começar do zero ou exigir que cada programa ou atividade seja justificado do zero.
+2. length
+3. Push
+4. array.indexOf() ele pesquisa uma matriz.
+5.array.forit, function nomedafunção(parâmetro).
+6. .pop = Remove o ultimo.
+    .shift = Remove o primeiro.
+    .Splice = Remove a posição indicada.
