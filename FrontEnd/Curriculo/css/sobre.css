@@ -1,0 +1,28 @@
+#um {background-image: url("div1.jpg")
+    ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+#dois {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+}
+body {
+    background-image: url("back.jpg"); 
+    
+}
+hr {
+    border-top: 3px solid #000000;
+}
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: dimgrey;
+    color: rgb(255, 255, 255);
+}
